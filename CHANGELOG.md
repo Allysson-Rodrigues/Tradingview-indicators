@@ -52,9 +52,3 @@
 //    - RSI Cache system implemented.
 //    - Added Debug mode for FVG.
 //    - Configured alerts.
-//
-// V1.0 (2025-12-14)
-//    - Fusão inicial: ICT HTF Candles + FVG + RSI + MTF
-//    - Sistema de cache RSI implementado
-//    - Debug mode para FVG adicionado
-//    - Alertas configurados
