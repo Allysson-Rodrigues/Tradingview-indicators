@@ -81,4 +81,4 @@ Created and maintained by **Allysson Rodrigues**
 
 ## 📄 License
 © Allysson Rodrigues.  
-**Educational and Personal Use only.** Redistribution, modification, or sale of this code is strictly prohibited without prior written consent from the author.
+**Educational and Personal Use only.**
